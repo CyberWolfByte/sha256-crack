@@ -37,7 +37,7 @@ The tools and scripts provided in this repository are made available for educati
 To use the SHA256 Password Cracking tool:
 
 ```bash
-python3 sha256-crack.py <your-sha256-hash>
+python3 sha256_crack.py <your-sha256-hash>
 ```
 
 - Replace `<your-sha256-hash>` with the actual hash you want to crack.
