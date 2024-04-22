@@ -56,7 +56,7 @@ The script operates by iterating through a list of passwords, performing the fol
 ## Output Example
 
 ```bash
-python3 sha256-crack.py 11a4a60b518bf24989d481468076e5d5982884626aed9faeb35b8576fcd223e1
+python3 sha256_crack.py 11a4a60b518bf24989d481468076e5d5982884626aed9faeb35b8576fcd223e1
 Target Hash: 11a4a60b518bf24989d481468076e5d5982884626aed9faeb35b8576fcd223e1
 [+] Attempting to hack: 11a4a60b518bf24989d481468076e5d5982884626aed9faeb35b8576fcd223e1!
     : Password hash found after 9 attempts! python hashes to 11a4a60b518bf24989d481468076e5d5982884626aed9faeb35b8576fcd223e1!
